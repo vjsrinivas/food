@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Initial Post"
+date:   2023-06-30 23:27:22 -0400
+categories: update
+---
+
+Check out all of the special recipes I've tried out in the ["What I've Made"](./what) page.
