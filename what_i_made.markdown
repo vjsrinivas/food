@@ -8,6 +8,7 @@ This is a list of the different "special" dishes that I've made. Most of these r
 
 ## Table of Contents
 
+1. [Par-Baked Pizza](#par-baked-pizza)
 1. [Blueberry Cheese Cake](#blueberry-cheese-cake)
 2. [Samosa](#samosa)
 3. [Puff Pastry Pie](#puff-pastry-pie)
@@ -17,6 +18,15 @@ This is a list of the different "special" dishes that I've made. Most of these r
 7. [Mushroom Sandwich](#mushroom-sandwich)
 8. ["From Scratch" Taco](#from-scratch-taco)
 9. [Puff Pastry Dough](#puff-pastry)
+
+### Par-Baked Pizza
+**Summary:** Tried to replicate a Blaze Pizza I had earlier this month. I wanted a crispy, thincrust pizza that could be made within 45 minutes to an hour. I was able to make two pizzas - one 12 inch with mozzarella and one 8 inch with mozzarella and pesto. An interesting baking method that I tried was "par-baking", where you insert the pizza dough into the oven without any toppings. You partially bake this dough for 5-8 minutes, take it out, place the toppings, and bake till the toppings and crust and finished. The hope was that par-baking could strengthen dough integrity (especially in the middle), and brown it at the same rate as the toppings (mainly the cheese). This worked for the most part, but there were some issues with the quality of the tomato sauce and the dough was kind of chewy. Maybe I kneaded the dough too much? Overall, I would try this again! Maybe not with the par-baking approach.
+
+**Pictures:**
+![alt text](../images/pizza_1.jpg "title text"){:class="lazyload"}
+![alt text](../images/pizza_pesto_1.jpg "title text"){:class="lazyload"}
+![alt text](../images/pizza_pesto_2.jpg "title text"){:class="lazyload"}
+
 
 ### Blueberry Cheese Cake
 **Summary:** Made a cheese cake with a "basque" burnt top. The inside was stuff with blueberries, and I made a quick and dirty blueberry-based syrup. This is one of my favorite dishes from both a cooking and eating experience. Although, I wished I whisked harder and longer so the cream cheese portion was smoother.
