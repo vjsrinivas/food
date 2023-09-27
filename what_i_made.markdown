@@ -9,15 +9,16 @@ This is a list of the different "special" dishes that I've made. Most of these r
 ## Table of Contents
 
 1. [Par-Baked Pizza](#par-baked-pizza)
-1. [Blueberry Cheese Cake](#blueberry-cheese-cake)
-2. [Samosa](#samosa)
-3. [Puff Pastry Pie](#puff-pastry-pie)
-4. [Sourbread](#sourbread)
-5. [Cornflake Cake](#cornflake-cake)
-6. [Blueberry Pound Cake](#blueberry-cheese-cake)
-7. [Mushroom Sandwich](#mushroom-sandwich)
-8. ["From Scratch" Taco](#from-scratch-taco)
-9. [Puff Pastry Dough](#puff-pastry)
+2. [Blueberry Cheese Cake](#blueberry-cheese-cake)
+3. [Samosa](#samosa)
+4. [Puff Pastry Pie](#puff-pastry-pie)
+5. [Sourbread](#sourbread)
+6. [Cornflake Cake](#cornflake-cake)
+7. [Blueberry Pound Cake](#blueberry-cheese-cake)
+8. [Mushroom Sandwich](#mushroom-sandwich)
+9. ["From Scratch" Taco](#from-scratch-taco)
+10. [Puff Pastry Dough](#puff-pastry)
+11. [Lemon Blueberry Cookie]()
 
 ### Par-Baked Pizza
 **Summary:** Tried to replicate a Blaze Pizza I had earlier this month. I wanted a crispy, thincrust pizza that could be made within 45 minutes to an hour. I was able to make two pizzas - one 12 inch with mozzarella and one 8 inch with mozzarella and pesto. An interesting baking method that I tried was "par-baking", where you insert the pizza dough into the oven without any toppings. You partially bake this dough for 5-8 minutes, take it out, place the toppings, and bake till the toppings and crust and finished. The hope was that par-baking could strengthen dough integrity (especially in the middle), and brown it at the same rate as the toppings (mainly the cheese). This worked for the most part, but there were some issues with the quality of the tomato sauce and the dough was kind of chewy. Maybe I kneaded the dough too much? Overall, I would try this again! Maybe not with the par-baking approach.
@@ -95,5 +96,11 @@ This is a list of the different "special" dishes that I've made. Most of these r
 
 **Pictures:**
 ![alt text](../images/puff_pastry.jpg "title text"){:class="lazyload"}
+
+### Lemon Blueberry Cookie
+**Summary:** A very simple vegan cookie recipe I found online. Thought it would be nice to have that lemon blueberry combo that is often found in cake recipes in cookie-form. It turned alright. The recipe called for a cookie cutter to stop the cookies from being gigantic, but I didn't have that. This resulted in the cookies becoming mishapen.
+
+**Pictures:**
+![alt text](../images/lemon_blueberry.jpg "title text"){:class="lazyload"}
 
 <script src="https://cdn.jsdelivr.net/npm/lazysizes@5.3.2/lazysizes.min.js" async=""></script>
