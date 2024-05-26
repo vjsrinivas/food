@@ -111,8 +111,8 @@ This is a list of the different "special" dishes that I've made. Most of these r
 **Pictures:**
 ![alt text](../images/coffee_cookies.png "title text"){:class="lazyload"}
 
-## Gamja Jorim (Braised Potatoes)
-**Summary:**
+## Gamja Jorim
+**Summary:** Recently, I tried a Korean braised potato recipe from a vegan Korean cookbook that was gifted to me. The recipe was incredibly simple and used common ingredients. I'd give it a solid 10/10.
 
 **Pictures:**
 ![alt text](../images/gamja_jorim.jpg "title text"){:class="lazyload"}
