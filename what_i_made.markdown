@@ -20,6 +20,7 @@ This is a list of the different "special" dishes that I've made. Most of these r
 10. [Puff Pastry Dough](#puff-pastry)
 11. [Lemon Blueberry Cookie](#lemon-blueberry-cookie)
 12. [Espresso Chocolate Cookie](#espresso-chocolate-cookie)
+13. [Gamja Jorim](#gamja_jorim)
 
 ### Par-Baked Pizza
 **Summary:** Tried to replicate a Blaze Pizza I had earlier this month. I wanted a crispy, thincrust pizza that could be made within 45 minutes to an hour. I was able to make two pizzas - one 12 inch with mozzarella and one 8 inch with mozzarella and pesto. An interesting baking method that I tried was "par-baking", where you insert the pizza dough into the oven without any toppings. You partially bake this dough for 5-8 minutes, take it out, place the toppings, and bake till the toppings and crust and finished. The hope was that par-baking could strengthen dough integrity (especially in the middle), and brown it at the same rate as the toppings (mainly the cheese). This worked for the most part, but there were some issues with the quality of the tomato sauce and the dough was kind of chewy. Maybe I kneaded the dough too much? Overall, I would try this again! Maybe not with the par-baking approach.
@@ -110,5 +111,11 @@ This is a list of the different "special" dishes that I've made. Most of these r
 **Pictures:**
 ![alt text](../images/coffee_cookies.png "title text"){:class="lazyload"}
 
+## Gamja Jorim (Braised Potatoes)
+**Summary:**
+
+**Pictures:**
+![alt text](../images/gamja_jorim.jpg "title text"){:class="lazyload"}
+![alt text](../images/gamja_jorim_2.jpg "title text"){:class="lazyload"}
 
 <script src="https://cdn.jsdelivr.net/npm/lazysizes@5.3.2/lazysizes.min.js" async=""></script>
