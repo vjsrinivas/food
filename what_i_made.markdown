@@ -118,4 +118,11 @@ This is a list of the different "special" dishes that I've made. Most of these r
 ![alt text](../images/gamja_jorim.jpg "title text"){:class="lazyload"}
 ![alt text](../images/gamja_jorim_2.jpg "title text"){:class="lazyload"}
 
+## Tempered Chocolate
+**Summary:** I tried making some tempered chocolate for the first time! It was actually not that hard, but I wish I had a digital food thermometer. I poured the chocolate into a super cute fish mold and chilled them solid. 
+
+**Pictures:**
+![alt text](../images/chocolate_fish_1.jpg "title text"){:class="lazyload"}
+![alt text](../images/chocolate_fish_2.jpg "title text"){:class="lazyload"}
+
 <script src="https://cdn.jsdelivr.net/npm/lazysizes@5.3.2/lazysizes.min.js" async=""></script>
